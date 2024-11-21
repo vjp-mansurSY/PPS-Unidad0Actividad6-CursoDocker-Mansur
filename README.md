@@ -1,4 +1,7 @@
 # PPS-Unidad0Actividad6-CursoDocker-Mansur
+Crea un contenedor demonio con un servidor nginx, usando la imagen oficial de nginx. Al crear el contenedor
+
+![](/Imagenes/C1.png)
 
     Pantallazo donde se vea la creación del contenedor y podamos comprobar que el contenedor está funcionando.
     
