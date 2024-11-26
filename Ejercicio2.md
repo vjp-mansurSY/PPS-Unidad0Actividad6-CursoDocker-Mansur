@@ -4,6 +4,8 @@ Servidor web
 Arranca un contenedor que ejecute una instancia de la imagen php:7.4-apache, que se llame web y que sea accesible desde tu equipo en el puerto 8000.
 Colocar en el directorio raíz del servicio web (/var/www/html) de dicho contenedor un fichero llamado index.html con el siguiente contenido:
 
+![](/imagenes/C6.png)
+
 <h1>HOLA SOY XXXXXXXXXXXXXXX</h1>
 
 Deberás sustituir XXXXXXXXXXX por tu nombre y tus apellidos.
@@ -13,13 +15,20 @@ Colocar en ese mismo directorio raíz un archivo llamado index.php con el siguie
     <?php echo phpinfo(); ?>
 
 Para crear los ficheros tienes tres alternativas:
-        Ejecutando bash de forma interactiva en el contenedor y creando los ficheros.
-        Ejecutando un comando echo en el contenedor con docker exec.
-        Usando docker cp como hemos visto en el ejercicio 5.
+        
+Ejecutando bash de forma interactiva en el contenedor y creando los ficheros.
+
+Ejecutando un comando echo en el contenedor con docker exec.
+
+Usando docker cp como hemos visto en el ejercicio 5.
+
+![](/imagenes/C8.png)
 
 Servidor de base de datos
 
 Arrancar un contenedor que se llame bbdd y que ejecute una instancia de la imagen mariadb para que sea accesible desde el puerto 3336.
+
+![](/imagenes/C7.png)
 
 Antes de arrancarlo visitar la página del contenedor en Docker Hub y establecer las variables de entorno necesarias para que:
         La contraseña de root sea root.
