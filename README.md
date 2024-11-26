@@ -2,4 +2,4 @@
 Indice
 
 [Ejercicios de Introducción](Introduccion.md)
-[Ejercicios de Images](Images.md)
+[Ejercicios de Images](Ejercicio2.md)
