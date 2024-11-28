@@ -1,4 +1,11 @@
 # PPS-Unidad0Actividad6-CursoDocker-Mansur
+----
+<div align="center">
+  <img src="imagenes/Presentacion.png" alt="imagen"/>
+</div>
+
+----
+
 En este documento se presentan los ejercicios prácticos desarrollados para demostrar el conocimiento adquirido. Cada ejercicio está diseñado para aplicar conceptos clave, resolver problemas específicos y fortalecer habilidades técnicas.
 
 Se incluyen capturas de pantalla, comandos utilizados y explicaciones breves para facilitar la comprensión y replicación de los procesos.
