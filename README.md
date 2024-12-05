@@ -23,5 +23,6 @@ Estos ejercicios sobre almacenamiento en Docker abordan el uso y manejo de volú
 [Sesion3](Ejercicio3.md)
 
 Estos ejercicios sobre redes en Docker permiten explorar la creación, configuración y uso de diferentes tipos de redes (bridge, host, etc..), facilitando la comunicación entre contenedores y su integración con el host y otros servicios externos.
+
 [Sesion4](Ejercicio4.md)
 
