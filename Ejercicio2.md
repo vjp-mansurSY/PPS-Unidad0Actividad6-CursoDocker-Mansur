@@ -1,4 +1,7 @@
-Ejercicio de Imagenes (Plantillas)
+# Sesión 2 - Imagenes
+
+## Ejercicios para entregar
+
 Servidor web
 
 Arranca un contenedor que ejecute una instancia de la imagen php:7.4-apache, que se llame web y que sea accesible desde tu equipo en el puerto 8000.
