@@ -2,6 +2,8 @@
 
 ## Ejercicios para entregar
 
+### Trabajar con redes docker 
+
 Vamos a crear dos redes de ese tipo (BRIDGE) con los siguientes datos:
 
 Red1
