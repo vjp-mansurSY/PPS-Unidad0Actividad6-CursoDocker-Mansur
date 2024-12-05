@@ -82,7 +82,7 @@ Captura de pantalla donde se pueda comprobar que si conectamos el contenedor u1 
 `
 
 
-## Despliegue de Nextcloud + mariadb/postgreSQL
+### Despliegue de Nextcloud + mariadb/postgreSQL
 
 Vamos a desplegar la aplicación nextcloud con una base de datos (puedes elegir mariadb o PostgreSQL) (NOTA: Para que no te de errores utiiliza la imagen mariadb:10.5). Te puede servir el ejercicio que hemos realizado para desplegar Wordpress. 
 
