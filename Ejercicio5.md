@@ -60,15 +60,9 @@ Vamos a desplegar la aplicación nextcloud con una base de datos (puedes elegir 
 
 * Comprueba el almacenamiento que has definido y que se ha creado una nueva red de tipo bridge.
 
-`docker network ls`
-
-`docker volume ls`
-
 ![](/imagenes/C61.png)
 
 
 * Borra el escenario con docker-compose.
-
-`docker-compose down -v`
 
 ![](/imagenes/C62.png)
