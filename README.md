@@ -30,3 +30,6 @@ Los ejercicios multicontenedor en Docker permiten aprender a orquestar múltiple
 
 [Sesion5](Ejercicio5.md)
 
+Los ejercicios de creación de imágenes en Docker están diseñados para aprender a construir imágenes personalizadas que puedan ejecutarse como contenedores en diferentes entornos.
+
+[Sesion6](Ejercicio6.md)
