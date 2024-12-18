@@ -45,7 +45,7 @@ Descarga la imagen en otro ordenador donde tengas docker instalado, y crea un co
 ## Creación de una imagen a partir de un Dockerfile
 Crea una página web estática (por ejemplo busca una plantilla HTML5). O simplemente crea un index.html.
 
-# Mi Página Web
+### Mi Página Web
 
 ```html
 <!DOCTYPE html>
@@ -64,13 +64,13 @@ Crea una página web estática (por ejemplo busca una plantilla HTML5). O simple
 
 Crea un fichero Dockerfile que permita crear una imagen con un servidor web sirviendo la página. Puedes usar una imagen base debian o ubuntu, o una imagen que tenga ya un servicio web, como hemos visto en el apartado Ejemplo 1: Construcción de imágenes con una página estática.
 
-# Usa la imagen base de nginx
+### Usa la imagen base de nginx
 FROM nginx:alpine
 
-# Copia el archivo HTML a la carpeta del servidor web de Nginx
+### Copia el archivo HTML a la carpeta del servidor web de Nginx
 COPY index.html /usr/share/nginx/html/
 
-# Exponer el puerto 80 para acceder a la página web
+### Exponer el puerto 80 para acceder a la página web
 EXPOSE 80
 
 
